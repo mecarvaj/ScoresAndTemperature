@@ -1,0 +1,15 @@
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\bin\Debug\net7.0\ScoresAndTemperature.exe
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\bin\Debug\net7.0\ScoresAndTemperature.deps.json
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\bin\Debug\net7.0\ScoresAndTemperature.runtimeconfig.json
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\bin\Debug\net7.0\ScoresAndTemperature.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\bin\Debug\net7.0\ScoresAndTemperature.pdb
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.csproj.AssemblyReference.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.AssemblyInfoInputs.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.AssemblyInfo.cs
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.csproj.CoreCompileInputs.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\refint\ScoresAndTemperature.dll
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.pdb
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ScoresAndTemperature.genruntimeconfig.cache
+D:\Documentos (D)\Cenfotec\Cenfotec\Fundamentos de C++ y C#\Clases\Clase 10\ScoresAndTemperature\ScoresAndTemperature\obj\Debug\net7.0\ref\ScoresAndTemperature.dll
